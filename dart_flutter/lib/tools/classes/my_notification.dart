@@ -4,7 +4,7 @@ import 'package:http/http.dart' as httpp;
 import 'package:googleapis_auth/auth_io.dart' as auth;
 
 class MyNotificationService {
- /* static Future<String> getAccessToken() async {
+  static Future<String> getAccessToken() async {
     final serviceAccountJson = {
       "type": "service_account",
       "project_id": "myschoolrim",
@@ -77,5 +77,5 @@ class MyNotificationService {
     } catch (e) {
       return e.toString();
     }
-  }*/
+  }
 }
