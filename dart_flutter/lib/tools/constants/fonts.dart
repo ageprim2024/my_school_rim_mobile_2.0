@@ -1,0 +1,11 @@
+const double font10 = 10;
+const double font12 = 12;
+const double font14 = 14;
+const double font16 = 16;
+const double font18 = 18;
+const double font20 = 20;
+const double font22 = 22;
+const double font24 = 24;
+const double font26 = 26;
+const double font28 = 28;
+const double font30 = 30;

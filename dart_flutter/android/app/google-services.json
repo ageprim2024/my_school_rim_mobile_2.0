@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076572468844",
+    "project_id": "myschoolrim",
+    "storage_bucket": "myschoolrim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076572468844:android:2e443a7765ad1016e18a49",
+        "android_client_info": {
+          "package_name": "mr.agep.my_school_rim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJytQ3X57F46R44uSoa8FyMSKZoLEAC60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
